@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 <picture>
-```
   <svg viewBox="0 0 1320 300">
       <text x="50%" y="50%" text-anchor="middle">RIFANVLL</text>
     </svg>
-
-    </picture>
+ </picture>
 
 I'm **Rifannvl**, a passionate ✨ Frontend Developer ✨ dedicated to creating dynamic and responsive web applications. Welcome to my GitHub profile!
 en-source initiatives that align with my interests.
