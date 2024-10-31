@@ -3,7 +3,7 @@
 I'm **Rifannvl**, a passionate ✨ Frontend Developer ✨ dedicated to creating dynamic and responsive web applications. Welcome to my GitHub profile!
 en-source initiatives that align with my interests.
 
-===
+---
 
 <picture>
 
