@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-I'm **Rifannvl**, a passionate ✨ Frontend Developer ✨ dedicated to creating dynamic and responsive web applications. Welcome to my GitHub profile!
-en-source initiatives that align with my interests.
-<picture>
+## I'm **Rifannvl**, a passionate ✨ Frontend Developer ✨ dedicated to creating dynamic and responsive web applications. Welcome to my GitHub profile! en-source initiatives that align with my interests.
 
-<source src="http://127.0.0.1:5501/index.html">
-</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
