@@ -12,16 +12,11 @@ en-source initiatives that align with my interests.
   <img alt="github-snake" src="https://raw.githubusercontent.com/binsarjr/binsarjr/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="start" padding="3px">
+<p align="start" >
   <img src="https://komarev.com/ghpvc/?username=Rifanvll&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
-
-### 💬 Ask me about:
-
-- Frontend development, especially HTML, CSS, and JavaScript.
-- My favorite libraries and tools for web development.
 
 ### 📫 How to reach me:
 
